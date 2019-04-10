@@ -4,10 +4,10 @@ In this tutorial you will learn how to create Android custom dialog.  We will st
 
 ### Android custom dialog
 _______________________________________
-* See   [activity_main.xml](https://github.com/MoranShalom/Tutorial1_Android-custom-dialog/blob/origine/master/app/src/main/res/layout/activity_main.xml)
+* See   [dialog_login.xml](https://github.com/MoranShalom/Tutorial1_Android-custom-dialog/blob/origine/master/app/src/main/res/layout/dialog_login.xml)
 for some styling optins.
 
-* See MainActivity for the class work code
+* See [MainActivity] for the class work code
 
 
 
