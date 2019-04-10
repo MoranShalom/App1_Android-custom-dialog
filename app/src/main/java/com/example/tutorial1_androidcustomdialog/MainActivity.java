@@ -1,7 +1,7 @@
 // In this tutorial you will learn how to create Android custom dialog.
 // We will start first by creating AlertDialog using AlertDialog builder, and then we will
 // design an XML resource layout file that we will use later for the custom alertdialog.
-
+//
 // for a custom Dialog we need to create a separate layout- we will call this layout - dialog_layout !!!
 
 package com.example.tutorial1_androidcustomdialog;
