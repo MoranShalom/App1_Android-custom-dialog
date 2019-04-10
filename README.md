@@ -7,7 +7,7 @@ _______________________________________
 * See   [dialog_login.xml](https://github.com/MoranShalom/Tutorial1_Android-custom-dialog/blob/origine/master/app/src/main/res/layout/dialog_login.xml)
 for some styling optins.
 
-* See [MainActivity] (https://github.com/MoranShalom/Tutorial1_Android-custom-dialog/blob/origine/master/app/src/main/java/com/example/tutorial1_androidcustomdialog/MainActivity.java)for the class work code
+* See [MainActivity ](https://github.com/MoranShalom/Tutorial1_Android-custom-dialog/blob/origine/master/app/src/main/java/com/example/tutorial1_androidcustomdialog/MainActivity.java)for the class work code
 
 
 
